@@ -1,0 +1,12 @@
+{
+  "name": "bims",
+  "version": "1.0.0",
+  "description": "I bims (als bewusste Falschschreibung von Ich bin’s) wurde durch den Langenscheidt-Verlag zum Jugendwort des Jahres 2017 gekürt.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat banner.txt"
+  },
+  "keywords": ["I", "bims"],
+  "author": "DNE",
+  "license": "Beerware"
+}
